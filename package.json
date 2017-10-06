@@ -4,5 +4,29 @@
   },
   "dependencies": {
     "nodemon": "^1.12.1"
-  }
+  },
+  "name": "node-testing-environment",
+  "description": "Just a simple testing environment you could run you code in.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyedAman/node-testing-environment.git"
+  },
+  "keywords": [
+    "node",
+    "environment",
+    "testing",
+    "chrome",
+    "dev",
+    "tools",
+    "alternative"
+  ],
+  "author": "Syed Aman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SyedAman/node-testing-environment/issues"
+  },
+  "homepage": "https://github.com/SyedAman/node-testing-environment#readme"
 }
